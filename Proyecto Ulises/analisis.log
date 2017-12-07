@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  27 NOV 2017 23:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 DEC 2017 23:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -831,6 +831,9 @@ LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 
 
+LaTeX Warning: Label `chp:planteamientoProblema' multiply defined.
+
+
 LaTeX Warning: Label `chp:modeloComportamiento' multiply defined.
 
 
@@ -984,7 +987,7 @@ LaTeX Font Info:    Try loading font information for U+wasy on input line 64.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-<cdt/theme/agua.png, id=232, 1154.3125pt x 625.33624pt>
+<cdt/theme/agua.png, id=236, 1154.3125pt x 625.33624pt>
 File: cdt/theme/agua.png Graphic file (type png)
 
 <use cdt/theme/agua.png>
@@ -1019,14 +1022,14 @@ Package babel Info: Redefining spanish shorthand "?
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./cdt/t
 heme/agua.png>]
-<cdt/theme/headerIpn.jpg, id=242, 426.59375pt x 632.3625pt>
+<cdt/theme/headerIpn.jpg, id=246, 426.59375pt x 632.3625pt>
 File: cdt/theme/headerIpn.jpg Graphic file (type jpg)
 
 <use cdt/theme/headerIpn.jpg>
 Package pdftex.def Info: cdt/theme/headerIpn.jpg used on input line 77.
 (pdftex.def)             Requested size: 23.60918pt x 35.0pt.
 
-<cdt/theme/logoEscom.jpg, id=243, 131.03902pt x 89.34479pt>
+<cdt/theme/logoEscom.jpg, id=247, 131.03902pt x 89.34479pt>
 File: cdt/theme/logoEscom.jpg Graphic file (type jpg)
 
 <use cdt/theme/logoEscom.jpg>
@@ -1073,42 +1076,42 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 LaTeX Font Warning: Font shape `OT1/cmbr/m/sc' undefined
-(Font)              using `OT1/cmbr/m/n' instead on input line 31.
+(Font)              using `OT1/cmbr/m/n' instead on input line 30.
 
 
 Package spanish Warning: Replacing `OT1/cmbr/m/sc' by 
-(spanish)                faked small caps on input line 31.
+(spanish)                faked small caps on input line 30.
 
-<cdt/theme/pleca.png, id=280, 1706.375pt x 371.3875pt>
+<cdt/theme/pleca.png, id=283, 1706.375pt x 371.3875pt>
 File: cdt/theme/pleca.png Graphic file (type png)
 
 <use cdt/theme/pleca.png>
-Package pdftex.def Info: cdt/theme/pleca.png used on input line 31.
+Package pdftex.def Info: cdt/theme/pleca.png used on input line 30.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 30.
  [1
 
  <./cdt/theme/pleca.png>])
@@ -1719,14 +1722,14 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 30.
  [8])
-<cdt/theme/logoIpn.jpg, id=429, 426.59375pt x 632.3625pt>
+<cdt/theme/logoIpn.jpg, id=434, 426.59375pt x 632.3625pt>
 File: cdt/theme/logoIpn.jpg Graphic file (type jpg)
 
 <use cdt/theme/logoIpn.jpg>
 Package pdftex.def Info: cdt/theme/logoIpn.jpg used on input line 102.
 (pdftex.def)             Requested size: 23.60918pt x 35.0pt.
 
-<cdt/theme/headerEscom.jpg, id=430, 131.03902pt x 89.34479pt>
+<cdt/theme/headerEscom.jpg, id=435, 131.03902pt x 89.34479pt>
 File: cdt/theme/headerEscom.jpg Graphic file (type jpg)
 
 <use cdt/theme/headerEscom.jpg>
@@ -1961,13 +1964,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--81
 
  []
 
-<cdt/uc/actor.png, id=457, 96.36pt x 74.2775pt>
+<cdt/uc/actor.png, id=462, 96.36pt x 74.2775pt>
 File: cdt/uc/actor.png Graphic file (type png)
  <use cdt/uc/actor.png>
 Package pdftex.def Info: cdt/uc/actor.png used on input line 82.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 
-<images/pantallas/iconos/salones.png, id=458, 352.40228pt x 352.40228pt>
+<images/pantallas/iconos/salones.png, id=463, 352.40228pt x 352.40228pt>
 File: images/pantallas/iconos/salones.png Graphic file (type png)
 
 <use images/pantallas/iconos/salones.png>
@@ -1975,7 +1978,7 @@ Package pdftex.def Info: images/pantallas/iconos/salones.png used on input line
  82.
 (pdftex.def)             Requested size: 9.99625pt x 10.0pt.
 
-<cdt/uc/usecase.png, id=460, 91.34125pt x 61.22874pt>
+<cdt/uc/usecase.png, id=465, 91.34125pt x 61.22874pt>
 File: cdt/uc/usecase.png Graphic file (type png)
  <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png used on input line 84.
@@ -2014,7 +2017,7 @@ File: cdt/theme/pleca.png Graphic file (type png)
 Package pdftex.def Info: cdt/theme/pleca.png used on input line 96.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
 
-<cdt/uc/rules/UCRule.png, id=463, 931.48pt x 973.6375pt>
+<cdt/uc/rules/UCRule.png, id=468, 931.48pt x 973.6375pt>
 File: cdt/uc/rules/UCRule.png Graphic file (type png)
 
 <use cdt/uc/rules/UCRule.png>
@@ -2325,7 +2328,7 @@ File: cdt/uc/actor.png Graphic file (type png)
 Package pdftex.def Info: cdt/uc/actor.png used on input line 91.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 
-<images/pantallas/iconos/informacion.png, id=540, 501.875pt x 501.875pt>
+<images/pantallas/iconos/informacion.png, id=539, 501.875pt x 501.875pt>
 File: images/pantallas/iconos/informacion.png Graphic file (type png)
 
 <use images/pantallas/iconos/informacion.png>
@@ -2503,7 +2506,7 @@ File: cdt/uc/actor.png Graphic file (type png)
 Package pdftex.def Info: cdt/uc/actor.png used on input line 89.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 
-<images/pantallas/iconos/profesores.png, id=568, 352.40228pt x 352.40228pt>
+<images/pantallas/iconos/profesores.png, id=562, 352.40228pt x 352.40228pt>
 File: images/pantallas/iconos/profesores.png Graphic file (type png)
 
 <use images/pantallas/iconos/profesores.png>
@@ -2766,7 +2769,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
 
-<images//ModuloSalones/pantallaprincipal.png, id=617, 1246.6575pt x 2216.28pt>
+<images//ModuloSalones/pantallaprincipal.png, id=604, 1246.6575pt x 2216.28pt>
 File: images//ModuloSalones/pantallaprincipal.png Graphic file (type png)
 
 <use images//ModuloSalones/pantallaprincipal.png>
@@ -2799,7 +2802,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
 
-<images//ModuloSalones/S1.PNG, id=622, 1246.6575pt x 2216.28pt>
+<images//ModuloSalones/S1.PNG, id=609, 1246.6575pt x 2216.28pt>
 File: images//ModuloSalones/S1.PNG Graphic file (type png)
 
 <use images//ModuloSalones/S1.PNG>
@@ -2857,7 +2860,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
 
-<images//ModuloSalones/S3.png, id=645, 1246.6575pt x 2216.28pt>
+<images//ModuloSalones/S3.png, id=628, 1246.6575pt x 2216.28pt>
 File: images//ModuloSalones/S3.png Graphic file (type png)
 
 <use images//ModuloSalones/S3.png>
@@ -2959,7 +2962,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
 
-<images//ModuloSalones/S2.png, id=667, 1246.6575pt x 2216.28pt>
+<images//ModuloSalones/S2.png, id=649, 1246.6575pt x 2216.28pt>
 File: images//ModuloSalones/S2.png Graphic file (type png)
 
 <use images//ModuloSalones/S2.png>
@@ -3024,7 +3027,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
 
-<images//ModuloSalones/S4.png, id=684, 1246.6575pt x 2216.28pt>
+<images//ModuloSalones/S4.png, id=665, 1246.6575pt x 2216.28pt>
 File: images//ModuloSalones/S4.png Graphic file (type png)
 
 <use images//ModuloSalones/S4.png>
@@ -3057,7 +3060,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
 
-<images//ModuloProfesores/P1.png, id=688, 1246.6575pt x 2216.28pt>
+<images//ModuloProfesores/P1.png, id=669, 1246.6575pt x 2216.28pt>
 File: images//ModuloProfesores/P1.png Graphic file (type png)
 
 <use images//ModuloProfesores/P1.png>
@@ -3115,7 +3118,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
 
-<images//ModuloProfesores/P2.png, id=705, 1246.6575pt x 2216.28pt>
+<images//ModuloProfesores/P2.png, id=684, 1246.6575pt x 2216.28pt>
 File: images//ModuloProfesores/P2.png Graphic file (type png)
 
 <use images//ModuloProfesores/P2.png>
@@ -3216,7 +3219,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-<images/modulos.png, id=726, 746.79pt x 487.8225pt>
+<images/modulos.png, id=702, 746.79pt x 487.8225pt>
 File: images/modulos.png Graphic file (type png)
  <use images/modulos.png>
 Package pdftex.def Info: images/modulos.png used on input line 11.
@@ -3229,7 +3232,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 11--12
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/modulosmovil.png, id=727, 527.9725pt x 457.71pt>
+<images/modulosmovil.png, id=703, 527.9725pt x 457.71pt>
 File: images/modulosmovil.png Graphic file (type png)
 
 <use images/modulosmovil.png>
@@ -3363,7 +3366,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 126.
 
-<images/actores/Actores.png, id=742, 457.71pt x 487.8225pt>
+<images/actores/Actores.png, id=718, 457.71pt x 487.8225pt>
 File: images/actores/Actores.png Graphic file (type png)
 
 <use images/actores/Actores.png>
@@ -3373,7 +3376,7 @@ Package pdftex.def Info: images/actores/Actores.png used on input line 135.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/actores/Actoresmovil.png, id=743, 427.5975pt x 427.5975pt>
+<images/actores/Actoresmovil.png, id=719, 427.5975pt x 427.5975pt>
 File: images/actores/Actoresmovil.png Graphic file (type png)
 
 <use images/actores/Actoresmovil.png>
@@ -3396,7 +3399,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 149.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 149.
-<cdt/uc/rules/ActorRule.png, id=744, 890.32625pt x 55.20625pt>
+<cdt/uc/rules/ActorRule.png, id=720, 890.32625pt x 55.20625pt>
 File: cdt/uc/rules/ActorRule.png Graphic file (type png)
 
 <use cdt/uc/rules/ActorRule.png>
@@ -3547,7 +3550,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 300.
 
-<images/CasosUso/cuweb.png, id=760, 1433.355pt x 1511.6475pt>
+<images/CasosUso/cuweb.png, id=736, 1433.355pt x 1511.6475pt>
 File: images/CasosUso/cuweb.png Graphic file (type png)
 
 <use images/CasosUso/cuweb.png>
@@ -3569,7 +3572,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 310.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 310.
-<images/CasosUso/cumovil.png, id=762, 1312.905pt x 578.16pt>
+<images/CasosUso/cumovil.png, id=738, 1312.905pt x 578.16pt>
 File: images/CasosUso/cumovil.png Graphic file (type png)
 
 <use images/CasosUso/cumovil.png>
@@ -4398,15 +4401,9 @@ LaTeX Info: Redefining \% on input line 23.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 334.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 334.
+Package rerunfilecheck Info: File `analisis.out' has not changed.
+(rerunfilecheck)             Checksum: 5A78C9C70C6AF5913DBE44D0289E523D;4246.
 
-
-Package rerunfilecheck Warning: File `analisis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `analisis.out':
-(rerunfilecheck)             Before: F2CA795699458ADB61E2B67DF99F453C;4184
-(rerunfilecheck)             After:  5A78C9C70C6AF5913DBE44D0289E523D;4246.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -4416,10 +4413,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 334.
  ) 
 Here is how much of TeX's memory you used:
- 10549 strings out of 493014
- 145578 string characters out of 6133351
- 272279 words of memory out of 5000000
- 13491 multiletter control sequences out of 15000+600000
+ 10510 strings out of 493014
+ 145031 string characters out of 6133351
+ 272385 words of memory out of 5000000
+ 13492 multiletter control sequences out of 15000+600000
  14469 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,16n,51p,587b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -4428,126 +4425,6 @@ replaced by a fixed one
 
 pdfTeX warning (dest): name{Actor:usuario} has been referenced but does not exi
 st, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.4.7} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.4.6} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.4.5} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.4.4} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.4.3} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.4.2} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.4.1} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.1.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.8.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.8.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.8} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.7.5} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.7.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.7.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.7.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.7.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.7} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.6.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.6.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.6.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.5.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.5.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.5.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.4.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.4.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.4.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.4.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.3.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.3.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.3.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.2.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.2.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist
-, replaced by a fixed one
 
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/hfbright/hfbr10.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/hfbright/hfbr17.pfb></usr/lo
@@ -4559,10 +4436,10 @@ ve/2016/texmf-dist/fonts/type1/public/hfbright/hfbrsl8.pfb></usr/local/texlive/
 6/texmf-dist/fonts/type1/public/hfbright/hfbrsy10.pfb></usr/local/texlive/2016/
 texmf-dist/fonts/type1/public/hfbright/hftl10.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on analisis.pdf (56 pages, 5421743 bytes).
+Output written on analisis.pdf (56 pages, 5424600 bytes).
 PDF statistics:
- 983 PDF objects out of 1000 (max. 8388607)
- 862 compressed objects within 9 object streams
- 304 named destinations out of 1000 (max. 500000)
- 594 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 939 PDF objects out of 1000 (max. 8388607)
+ 818 compressed objects within 9 object streams
+ 264 named destinations out of 1000 (max. 500000)
+ 602 words of extra memory for PDF output out of 10000 (max. 10000000)
 
